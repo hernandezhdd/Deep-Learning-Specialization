@@ -1,5 +1,7 @@
 # Deep-Learning-Specialization
 
+Assignments for this specialization. C stands for course, W stands for week and A stands for assignment.
+
 ## About this Specialization
 
 The Deep Learning Specialization is a foundational program that will help you understand the capabilities, challenges, and consequences of deep learning and prepare you to participate in the development of leading-edge AI technology. 
